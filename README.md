@@ -1,5 +1,4 @@
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/apfjunior/nlw-together-flutter">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/apfjunior/nlw-together-flutter">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/apfjunior/nlw-together-flutter">
   <a href="https://github.com/apfjunior">
@@ -8,7 +7,7 @@
 </p>
 
 # NLW Together - Flutter
-Respositório da semana da NLW Together da Rocketseat. Trilha para estudo de Flutter 2v.
+Respositório da semana da NLW Together da Rocketseat. Trilha para estudo de Flutter.
 
 ## Aula 0
 Criação do primeiro App step-by-step de contador; 
