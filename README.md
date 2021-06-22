@@ -8,7 +8,7 @@
 </p>
 
 # NLW Together - Flutter
-Respositório da semana da NLW Together da Rocketseat. Tilha para estudo de Flutter 2v.
+Respositório da semana da NLW Together da Rocketseat. Trilha para estudo de Flutter 2v.
 
 ## Aula 0
 Criação do primeiro App step-by-step de contador; 
